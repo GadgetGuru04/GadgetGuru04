@@ -15,7 +15,7 @@
 🧠 Looking for help with: **ML Model Optimization**  
 💻 All my projects: [github.com/GadgetGuru04](https://github.com/GadgetGuru04)  
 📝 Articles: [LinkedIn](https://www.linkedin.com/in/debdwaipayan-haldar-b311471b9/)  
-💬 Ask me about: **C/C++/Python, .NET, MySQL, Django, Keyloggers, APIs**  
+💬 Ask me about: **C/C++/Python, .NET, MySQL, Django, Keyloggers, APIs, Python**  
 📫 Reach me: **debdwaipayan2004@gmail.com**  
 📄 My resume: [Resume Link](https://drive.google.com/file/d/1QfXYkfAjOoQCS_RpkqdEAxG9dtkJyyxp/view?usp=sharing)  
 ⚡ Fun fact: **I can code and crack jokes at the same time 😄**
