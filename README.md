@@ -24,7 +24,7 @@
 
 ## About me
 
-I'm a 3rd-year B.Tech-M.Tech student in **Cybersecurity** at National Forensic Sciences University (NFSU), Gandhinagar. I sit at the intersection of full-stack development and offensive security — I've built a system-wide keylogger in C++, a fraud detection ML model, a full e-commerce platform, and a fintech platform that got global recognition on DoraHacks.
+I'm a 4th-year B.Tech-M.Tech student in **Cybersecurity** at National Forensic Sciences University (NFSU), Gandhinagar. I sit at the intersection of full-stack development and offensive security — I've built a system-wide keylogger in C++, a fraud detection ML model, a full e-commerce platform, and a fintech platform that got global recognition on DoraHacks.
 
 - 🔐 **Currently building:** Fraud Detection AI Model (scikit-learn, Python) @ NFSU
 - 🌱 **Learning:** React, ML Model Optimization, Linux Internals, AWS Cloud Security
